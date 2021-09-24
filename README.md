@@ -1,5 +1,5 @@
 # MediumBlogs
-Here are my some recent Blogs on Medium.
+Here are my recent Blogs on Medium.
 
 1.This is my First Blog on Medium purely On GANs
 
